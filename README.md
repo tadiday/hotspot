@@ -1,3 +1,24 @@
+# Hotspot
+
+A live activity map showing how busy locations are.
+
+## Features
+
+- map centered on user location
+- fetches live activity signals from:
+  - google popular times (scraped ? bc i don't think it's free)
+  - transit feeds
+  - event data 
+  - optional: weather 
+- real-time updates via websocket
+
+
+
+
+
+
+
+
 <<<<<<< HEAD
 # Welcome to your Expo app 👋
 
